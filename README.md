@@ -1,7 +1,9 @@
 # Gilgamesh
-Testing out new text havent used markdown before.
-Testing spacing
++ [**CLI Commands**](docs/cli.md)
+<br>
 
+Testing out new text havent used markdown before.
+Testing spacing<br>
 Seeing what multiple lines look like.
 
 See I need to skip a line in code for it to show in preview as a new line.
@@ -37,3 +39,4 @@ Shortcuts I want to use more often:
 * Win+L (Lock PC)
 * Ctrl+Z (Undo)
 * Ctrl+T (New Tab in Web Browser)
+
