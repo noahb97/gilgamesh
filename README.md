@@ -40,3 +40,5 @@ Shortcuts I want to use more often:
 * Ctrl+Z (Undo)
 * Ctrl+T (New Tab in Web Browser)
 
+
+
