@@ -41,7 +41,7 @@ Shortcuts I want to use more often:
 * Ctrl+Z (Undo)
 * Ctrl+T (New Tab in Web Browser)
 
-Lab6
+Lab 6 Done
 
 
 
