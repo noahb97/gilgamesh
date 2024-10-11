@@ -3,8 +3,6 @@
 + [**CLI Commands**](docs/cli.md)
 <br>
 
-UPDATE TO THE BRANCH TEST
-
 Testing out new text havent used markdown before.
 Testing spacing<br>
 Seeing what multiple lines look like.
@@ -42,6 +40,8 @@ Shortcuts I want to use more often:
 * Win+L (Lock PC)
 * Ctrl+Z (Undo)
 * Ctrl+T (New Tab in Web Browser)
+
+Lab 6 Done
 
 
 
