@@ -13,12 +13,12 @@
     City: Miami
   Position: Forward
   Age: '38'
-- Name: Serena Williams #String
-  Team:                 #Object
-    Name: N/A           #String
-    City: N/A
-  Position: Player
-  Age: '41'
+- Name: Serena Williams   #String
+  Team:                   #Object
+    Name: N/A             #String
+    City: N/A             #String
+  Position: Player        #String
+  Age: '41'               #Number
 - Name: Tom Brady
   Sport: Football
   Team:
