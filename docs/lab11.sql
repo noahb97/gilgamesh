@@ -46,13 +46,14 @@ WHERE due_date = '2024-10-08';
 --Write a query to display the title and due_date of assignments due in October 2024. Hint: use LIKE '2024-10%'
 SELECT title, due_date
 FROM assignments
-WHERE due_date LIKE '2024-10%';
+WHERE due_date LIKE '2024-10%'
+ORDER BY due_date;
 
 --Result:
 "Hardware Installation Project"	"2024-10-01"
 "Algorithm Design Task"	"2024-10-05"
-"JavaScript Interactive Page"	"2024-10-10"
 "Data Normalization Task"	"2024-10-08"
+"JavaScript Interactive Page"	"2024-10-10"
 "Linear Algebra Quiz"	"2024-10-15"
 "Presentation Project"	"2024-10-20"
 
