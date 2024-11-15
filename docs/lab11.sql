@@ -1,5 +1,6 @@
 --Lab 11 SQL file for all the queries
 
+
 --1. Assignments for a Specific Course
 --Write a query to display the title and due_date of assignments for the course COMP1234.
 SELECT course_id, title, due_date
